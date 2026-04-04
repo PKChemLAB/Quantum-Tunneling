@@ -1,3 +1,4 @@
+
 # Quantum Tunneling
 
 An educational repository containing interactive Jupyter notebooks for understanding quantum mechanical phenomena, specifically focusing on quantum tunneling and potential wells.
@@ -42,3 +43,73 @@ This project provides structured learning materials and computational simulation
 git clone https://github.com/PKChemLAB/Quantum-Tunneling.git
 cd Quantum-Tunneling
 pip install -r requirements.txt
+```
+
+### Running the Notebooks
+
+```bash
+jupyter notebook
+```
+
+Navigate to the `quantum tunneling` directory and open either notebook to begin exploring quantum mechanical concepts.
+
+## Learning Objectives
+
+- Understand the principles of quantum tunneling
+- Analyze particle behavior in potential wells
+- Develop numerical solutions to the Schrödinger equation
+- Visualize quantum mechanical phenomena
+- Build intuition for quantum mechanics through interactive simulations
+
+## Educational Resources
+
+This repository is designed as a supplementary resource for students learning quantum mechanics. Each notebook includes:
+- Theoretical background and derivations
+- Computational implementations
+- Interactive visualizations
+- Problem-solving examples
+
+## Project Structure
+
+```
+Quantum-Tunneling/
+├── README.md
+├── quantum tunneling/
+│   ├── 量子隧穿.ipynb          # Quantum Tunneling simulation
+│   ├── 无限深势阱.ipynb         # Infinite potential well analysis
+│   └── mydraw.py                # Visualization utilities
+└── .gitignore
+```
+
+## License
+
+This project is based on educational materials from Prof. Wang Linjun's structured learning tutorials.
+
+## Contributors
+
+- PKChemLAB
+
+## Acknowledgments
+
+Special thanks to Prof. Wang Linjun for the foundational course content and structured learning approach.
+
+## Support & Feedback
+
+For questions, suggestions, or issues, please open an issue on the GitHub repository.
+
+---
+
+**Last Updated**: 2026-01-02
+```
+
+This README provides:
+- ✅ Clear project overview and purpose
+- ✅ Contents description
+- ✅ Technology stack information
+- ✅ Getting started instructions
+- ✅ Learning objectives
+- ✅ Project structure
+- ✅ Proper formatting and organization
+- ✅ Professional tone suitable for educational content
+
+You can customize it further based on any additional details about your project, such as specific learning outcomes, installation requirements, or additional resources you'd like to include.
